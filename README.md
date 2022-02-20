@@ -1,2 +1,2 @@
-# Extract-MP3-to-MP4
-MP3 to MP4 using python.
+# Extract-MP3-from-MP4
+Extract MP3 from MP4 using python.
